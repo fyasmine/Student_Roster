@@ -1,7 +1,7 @@
 # Student_Roster
 WGU school project.
 
-Displays information on students and checks for invalid emails.
+Displays information on students, checks for invalid emails, calculate student's average days in course, find students in program, and delete student.
 
 ### Features:
 -  Display all information for students in list
