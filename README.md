@@ -4,6 +4,8 @@ WGU school project.
 ### Features:
 -  Display all information for students in list
 -  Display invalid emails
+-  Calculate student's average days in course
+-  Display all students in software program
 -  Delete pre-selected student
 
 ### Skills:
