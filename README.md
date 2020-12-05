@@ -1,5 +1,5 @@
 # Student_Roster
-WGU school project.
+WGU school project. Displays student information.
 
 ### Features:
 -  Display all information for students in list
